@@ -77,14 +77,38 @@ cd ~/.your-agent-config/skills/
 git clone https://github.com/Neeraj7911/ultimate-web-design-system.git
 ```
 
-## 🛠️ Usage
+## 🛠️ Usage (How to integrate)
 
-To use this skill, simply request your AI agent to build a website and mention the design system. The agent will autonomously read the `SKILL.md` rules and dive into the 25,000+ component references to assemble your UI.
+This skill is incredibly versatile and can be used across almost any AI coding environment or platform. Here is how you can use it:
 
-### Example Prompts:
-- *"Build a high-conversion landing page for my AI startup using the ultimate-web-design-system skill."*
-- *"Create a sleek, dark-mode bento grid section drawing inspiration from your premium UI references."*
-- *"Design a highly animated navbar using the motion interaction patterns in your database."*
+### 1. Antigravity & Agentic Workspaces (Recommended)
+Since this is natively built as an autonomous Agent Skill, you simply place the folder in your `skills/` directory. When talking to your agent, simply ask:
+> *"Build a high-conversion landing page for my AI startup using your **ultimate-web-design-system** skill."*
+The agent will automatically read the `SKILL.md` rules, navigate the 25,000+ reference components, and write the full repository code for you.
+
+### 2. Cursor IDE
+You can easily inject this entire design system into your Cursor workflow:
+1. Open your project in Cursor.
+2. Type `@` in the chat or composer and reference the `SKILL.md` file (e.g. `@SKILL.md`).
+3. Tell Cursor: *"Design a sleek, dark-mode bento grid section for my dashboard based on the aesthetic rules and components referenced in this file."*
+
+### 3. Claude (Anthropic) & ChatGPT
+If you are copy-pasting code or using Claude Projects:
+1. Upload the `SKILL.md` file to your Claude Project's Knowledge Base.
+2. Upload any specific component files from the `references/` directory (like the animated component references).
+3. Set your custom instruction: *"You are an expert Frontend Architect. Always follow the guidelines in SKILL.md when generating UI code."*
+
+### 4. Lovable, v0, & No-Code Platforms
+You can use the rich prompts inside the `references/` directory to get vastly superior results from generative UI platforms like Lovable or v0.dev.
+1. Open the `superdesign_prompts.md` or `motionsites_prompts.md` file.
+2. Copy one of the advanced architectural prompts.
+3. Paste it directly into Lovable or v0 to generate a premium, production-ready interface that doesn't look like a generic template.
+
+### 5. Terminal & CLI Agents
+For developers using terminal-based agents (like Aider or local LLMs):
+1. Navigate to your project directory.
+2. Point the agent to the skill: `/read path/to/ultimate-web-design-system/SKILL.md`
+3. Prompt it: *"Create a highly animated navbar using the motion interaction patterns documented in your references."*
 
 ---
 
