@@ -557,10 +557,10 @@ Before delivering any website, verify against this matrix:
 
 You have access to thousands of premium UI components and code snippets in the `references/` directory. When building UIs, consult these extracted databases for inspiration or drop-in code:
 
-- **`references/aceternity_ui_components.md`**: Contains 189 free components from Aceternity UI (animations, cards, sections).
-- **`references/vengenceui_components.md`**: Contains 132 UI components from VengenceUI.
-- **`references/superdesign_prompts.md`**: Contains 948 components and design prompts from SuperDesign.
-- **`references/motionsites_prompts.md`**: Contains 122 design prompts from MotionSites.
-- **`references/aura_build_extracted_code.zip`**: Contains a massive database of 24,000+ UI components, pages, and React projects extracted from Aura.build (198MB compressed).
+- **`references/aceternity_ui_components.md`**: Contains 189 free animated Tailwind components (animations, cards, sections).
+- **`references/vengenceui_components.md`**: Contains 132 premium UI components and layout blocks.
+- **`references/superdesign_prompts.md`**: Contains 948 components and design prompts.
+- **`references/motionsites_prompts.md`**: Contains 122 high-quality design prompts for motion interactions.
+- **`references/aura_build_extracted_code.zip`**: Contains a massive database of 24,000+ UI components, pages, and React projects (198MB compressed).
 
 Whenever you need a specific animated component, layout, or section, you should read the relevant markdown files in `references/` for immediate implementation details.
