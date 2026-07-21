@@ -1,0 +1,2 @@
+# Ignore massive files that exceed GitHub's 100MB limit
+references/aura_build_extracted_code.zip
