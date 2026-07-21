@@ -16,6 +16,7 @@
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
+- [Supported Website Types](#-supported-website-types)
 - [Key Features](#-key-features)
 - [Massive Component Library](#-massive-component-library)
 - [Installation](#-installation)
@@ -31,6 +32,19 @@
 The **Ultimate Web Design System** is an advanced, autonomous agent skill designed to bridge the gap between generic AI outputs and **premium, state-of-the-art web design**. By equipping your AI coding assistant with this skill, you enable it to architect, design, and generate production-ready websites using modern frameworks (React, Next.js, Tailwind CSS, Framer Motion) with flawless aesthetics.
 
 Whether you are building landing pages, SaaS dashboards, fintech applications, e-commerce platforms, or 3D web experiences, this skill provides the definitive blueprint for high-end digital design.
+
+## 🌐 Supported Website Types
+
+Because this skill encompasses 25,000+ UI components and architectural patterns, the AI can seamlessly generate **virtually any type of digital product**, including but not limited to:
+
+- 🚀 **High-Conversion Landing Pages:** Waitlist pages, product launches, and startup marketing sites with scroll-triggered animations and sticky headers.
+- 💻 **SaaS Dashboards & Web Apps:** Complex data tables, highly interactive bento-grid layouts, sidebar navigations, and intricate analytics interfaces.
+- 🛍️ **E-Commerce & Retail:** Stunning product carousels, shopping carts, luxury fashion lookbooks, and high-performance storefronts.
+- 📸 **Portfolios & Agency Sites:** Creative, hyper-animated agency portfolios with parallax scrolling, custom cursors, and WebGL/3D integrations.
+- 💳 **Fintech & Banking:** Trust-inspiring, secure-looking dashboards with sleek charting, clean typography, and minimalist "Swiss" design.
+- 🛠️ **Developer Tools & Documentation:** API docs, developer portals, and CLI-tool websites with syntax-highlighted code blocks, terminal mockups, and dark-mode defaults.
+- 📝 **Editorial & Blogs:** Typography-heavy, magazine-style layouts with pristine spacing and reading progress indicators.
+- 🏥 **Health, Wellness, & Web3:** From soothing, pastel-toned mental health apps to futuristic, neon-glowing crypto exchanges.
 
 ## ✨ Key Features
 
